@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.1",
+    "chromedriver": "^112.0.0",
+    "open": "^9.1.0",
+    "robotjs": "^0.6.0",
+    "selenium-webdriver": "^4.9.0"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.13",
+    "eslint": "^8.39.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
