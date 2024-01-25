@@ -44,7 +44,7 @@ If you find something amusing or see a way to expand these fun experiments, feel
 ## Contact
 
 If you have questions dont hesitate to reach me at guymorganb@gmail.com
-give me a follow on instagram if your in the neighborhood! @guyycodes. Id love to keep making more useful things. 
+give me a follow on instagram if your in the neighborhood! @guyycodes, Id love to keep making more useful things. 
 
 Enjoy the playful side of coding!
 ```bash
