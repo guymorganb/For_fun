@@ -1,0 +1,16 @@
+#container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 100vh;
+    
+  }
+#myCanvas{
+    border: 3px solid black;
+}
+#pointer{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+}
